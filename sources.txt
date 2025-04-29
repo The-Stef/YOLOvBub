@@ -1,0 +1,21 @@
+Videos sourced from Youtube:
+
+https://www.youtube.com/watch?v=OWabKFYa2PI
+https://www.youtube.com/watch?v=ipY_R_nhxUA
+https://www.youtube.com/watch?v=mFYx2i-tso0
+https://youtu.be/cUFX1fAsi6k?feature=shared
+https://www.youtube.com/watch?v=uJ7OUmhBuAY
+https://www.youtube.com/watch?v=jtIIDu-jyPc
+https://www.youtube.com/watch?v=Vprf3HcgZWc
+https://www.youtube.com/watch?v=SbjWy1PgQNg
+https://youtube.com/shorts/tpTRAEt01qA?feature=shared
+https://youtube.com/shorts/XUXOU8AOkrs?feature=shared
+https://youtube.com/shorts/3i9mkjqkAss?feature=shared
+
+Videos sourced from https://data.4tu.nl/datasets/af9918ff-d1f9-4e96-aece-e4fa22f6bc08/2*
+
+Stationary.mp4
+Drone.MP4
+
+* Originals not included in the repository.
+Inference results that use Stationary / Drone are instead provided.
