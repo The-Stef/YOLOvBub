@@ -28,6 +28,9 @@ By fine-tuning the YOLOv10-M model for our specific task, shifting the model's f
 - **Weights/**
     Includes `.pt` files for the base models validated during our studies.
 
+- **PDF/**
+    Includes a `.pdf` to the Bachelor Thesis document.
+
 - **dataset-links.txt**  
     Links to the BubSET and BubSET-Testing datasets used in training and validation, hosted on Roboflow.
 
