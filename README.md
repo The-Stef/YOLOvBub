@@ -28,7 +28,7 @@ By fine-tuning the YOLOv10-M model for our specific task, shifting the model's f
 - **Weights/**
     Includes `.pt` files for the base models validated during our studies.
 
-- **PDF/**
+- **docs/**
     Includes a `.pdf` to the Bachelor Thesis document.
 
 - **dataset-links.txt**  
