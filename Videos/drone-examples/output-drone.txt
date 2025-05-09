@@ -1,0 +1,3 @@
+This folder includes output examples from the Stationary video.
+
+It highlights how the model performs in relatively clear conditions.
