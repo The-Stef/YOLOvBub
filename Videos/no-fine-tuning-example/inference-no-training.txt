@@ -1,0 +1,3 @@
+This video shows how the YOLO model acts before any sort of fine-tuning from our side is applied. 
+
+It highlights the necessity of applying our fine-tuning process.
