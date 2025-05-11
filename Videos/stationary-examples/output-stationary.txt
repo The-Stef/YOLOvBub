@@ -1,0 +1,3 @@
+This folder includes video examples from Stationary.mp4.
+
+It shows how the model handles ambiguous cases.
