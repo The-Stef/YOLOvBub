@@ -1,0 +1,3 @@
+This folder contains videos of how the model performs when tested on footage gathered in the OceanLab of Constructor University Bremen.
+
+The footage contains multiple filming angles, bubble activity intensity levels, recording devices (i.e. FiFish v6 robot) and multiple water clarity conditions.
