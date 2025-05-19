@@ -23,7 +23,7 @@ By fine-tuning the YOLOv10-M model for our specific task, shifting the model's f
     Jupyter Notebooks used for data preparation, model training, evaluation, and result visualization.
 
 - **Videos/**  
-    Video examples showcasing the YOLOvBub detection system in action.
+    Video examples showcasing the YOLOvBub detection system in action. Can be found inside `docs/`.
 
 - **Weights/**
     Includes `.pt` files for the base models validated during our studies.
